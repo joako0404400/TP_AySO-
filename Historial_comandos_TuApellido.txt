@@ -1,0 +1,185 @@
+git init 
+code 
+git clone https://github.com/upszot/UTN-FRA_SO_Vagrant.git
+cat Vagrantfile 
+vagrant up 
+vagrant ssh
+vagrant halt
+up
+-ip
+-up
+vagrant up 
+vagrant ssh 
+#!/bin/bash
+mkdir -p ~/Estructura/{carpeta1/{sub1,sub2},carpeta2/{subA,subB}}
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+cat ~/.ssh/id_ed25519.pub
+[200~cat ~/.ssh/id_ed25519.pub
+cat ~/.ssh/id_ed25519.pub
+ssh-keygen -t ed25519 -C "tu_email@ejemplo.com"
+cat ~/.ssh/id_ed25519.pub
+ssh-keygen -t ed25519 -C "castanaresjoako@gmail.com"
+y
+cat ~/.ssh/id_ed25519.pub
+#!/bin/bash
+mkdir -p ~/Estructura/{carpeta1/{sub1,sub2},carpeta2/{subA,subB}}
+ssh-keygen -t ed25519
+y
+ssh-keygen -t ed25519
+cd
+cat $HOME/.ssh/*.pub
+mkdir repogit
+cd repogit
+git clone git@github.com:<joako0404400>/TP_AySO.git
+TU_USUARIOgit clone git@github.com:<TU_USUARIO>/TP_AySO.git
+TU_USUARIOgit clone git@github.com:<TU_USUARIO>/TP_AySO.git
+TU_USUARIOgit clone https://github.com/joako0404400/TP_AySO-
+git clone https://github.com/joako0404400/TP_AySO-
+cd TP_AySO
+mv TP_AySO- TP_AySO
+cd TP_AySO
+pwd
+ls -l
+cat /etc/os-release
+up
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAs1NPGY6tjbD35r371aC8a2lhJm2/iAj90qUdUIXd4d
+vagrant up
+vagrant up
+ls
+[200~mkdir VMPruebasVagrant
+mkdir VMPruebasVagrant
+cd VMPruebasVagrant
+vagrant up
+vagrant init hashicorp/bionic64
+vagrant up
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+cd
+mkdir repogit
+cd ~/repogit
+git clone https://github.com/joako0404400/TP_AySO-
+cd -TP_AySO
+cd TP_AySO
+pwd
+ls -l
+cat /etc/os-release
+vagrant up
+vagrant ssh
+man grep
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i home_url /etc/os-release > datos_url.txt
+echo "Usuario=$(whoami)" > datos_usuario.txt
+git add .
+git config --global user.email "TU_MAIL"
+git config --global user.name "TU_USUARIO"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+vagrant up 
+vagrant up 
+vagrant ssd 
+vagrant up 
+vagrant up 
+vagrant up 
+vagrant up 
+vagrant up 
+vagrant up
+vagrant up
+vagrant up
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+cd
+mkdir repogit
+cd ~/repogit
+git clone https://github.com/joako0404400/TP_AySO-
+git clone https://github.com/joako0404400/TP_AySO-
+git clone https://github.com/joako0404400/TP_AySO-
+git clone https://github.com/joako0404400/TP_AySO
+rm -rf ~/repogit/TP_AySO
+git clone https://github.com/joako0404400/TP_AySO ~/repogit/TP_AySO
+git clone https://github.com/joako0404400/TP_AySO ~/repogit/TP_AySO
+git clone https://github.com/joako0404400/TP_AySO ~/repogit/TP_AySO
+git clone https://github.com/joako0404400/TP_AySO ~/repogit/TP_AySO
+git clone https://github.com/joako0404400/TP_AySO ~/repogit/TP_AySO
+git@github.com:joako0404400/TP_AySO.git
+git config --global user.name "joako0404400"
+git config --global user.email "castanaresjoako@gmail.com"
+git clone git@github.com:joako0404400/TP_AySO-.git
+git clone https://github.com/joako0404400/TP_AySO-.git
+rm -rf ~/repogit/TP_AySO-
+git clone git@github.com:joako0404400/TP_AySO-.git
+cd TP_AySO
+cd TP_AySO-
+pwd
+ls -l
+cat /etc/os-release
+vagrant ssh
+cd ~/repogit/UTN-FRA_SO_Vagrant/VagrantFiles/1_equipo
+ls -l ~/repogit
+UTN-FRA_SO_Vagrant/VagrantFiles/1_equipo
+cd ~
+find . -name Vagrantfile
+cd /ruta/del/Vagrantfile
+cd /ruta/del/Vagrantfile
+cd /ruta/del/Vagrantfile
+vagrant up
+vagrant up
+cat /etc/os-release
+echo "Usuario=$(whoami)" > datos_usuario.txt
+git add .
+git config --global user.email "castanaresjoako@gmail.com"
+git config --global user.name "joaquin"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git push
+git push
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo información de CPU"
+git commit -m "feat: Añadiendo información de CPU"
+git push
+git remote set-url origin https://github.com/joako0404400/UTN-FRA_SO_Vagrant.git
+git clone git@github.com:joako0404400/TP_AySO-.git
+cd TP_AySO
+cd TP_AySO-
+pwd
+ls -l
+cat /etc/os-release
+man grep
+echo "Usuario=$(whoami)" > datos_usuario.txt
+git add .
+git config --global user.email "TU_MAIL"
+git config --global user.name "TU_USUARIO"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git push
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo información de CPU"
+git push
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo información de CPU"
+git push
+cat <<EOF >> README.md
+Alumno: <Tu-Nombre>
+División: <Tu-División>
+Turno: <Tu-Turno>
+EOF
+
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+mkdir -p ~/Estructura/{carpeta1/{sub1,sub2},carpeta2/{subA,subB}}
+echo '#!/bin/bash
+mkdir -p ~/Estructura/{carpeta1/{sub1,sub2},carpeta2/{subA,subB}}' > script_dir.sh
+chmod +x script_dir.sh
+git add script_dir.sh
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
