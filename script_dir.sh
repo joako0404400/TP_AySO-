@@ -1,2 +1,3 @@
 #!/bin/bash
-mkdir -p ~/Estructura/{carpeta1/{sub1,sub2},carpeta2/{subA,subB}}
+mkdir -p MATERIA/{uni1,uni2,uni3} MATERIA2/{uni1,uni2,uni3}
+
